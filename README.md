@@ -51,3 +51,6 @@ req.login()
 req.logout()
 req.isAuthenticated()
 req.isUnAuthenticated()
+
+
+http://toon.io/understanding-passportjs-authentication-flow/
